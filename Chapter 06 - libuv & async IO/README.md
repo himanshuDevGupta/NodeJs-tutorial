@@ -1,6 +1,6 @@
 # Episode-06: libuv and Async I/O
 
-![Alt text](https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg)
+![Alt text]([https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg](https://media.licdn.com/dms/image/v2/D5612AQHruWD8d1d7ow/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735117314406?e=2147483647&v=beta&t=P6S0QaFMhf91HygomDxcxljlBW8dEjphQVDTLtumrvU))
 
 
 ## 1. What is libuv?
